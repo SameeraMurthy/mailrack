@@ -1,0 +1,16 @@
+{
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "Send Emails Easily",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["email", "node.js", "server"],
+  "author": "Sameera M.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.14"
+  }
+}
