@@ -7,7 +7,7 @@ const mail = require("./mailrack")
 let email = new mail("someone@example.com")
 
 // Authenticate with your service
-email.auth("gmail", secret.auth.username, secret.auth.password)
+email.auth(<your email service>, <your email address>, <your password>)
 
 // Set the subject
 email.subject = "Example Email"
