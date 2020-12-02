@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: MailRack
+description: Easy mailing component for Node.js built with Nodemailer.
+logo: https://img.icons8.com/color/2x/mailbox-closed-flag-down--v2.gif
