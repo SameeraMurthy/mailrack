@@ -18,3 +18,4 @@ email.body = "<h1>Hello World</h1>"
 // Send the mail and recieve information
 email.send(info => console.log(info))
 ```
+[Mailbox Animated Icon](https://icons8.com/icon/RGYWvU5ny7Oz/mailbox) by Icons8
