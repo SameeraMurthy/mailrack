@@ -1,4 +1,4 @@
-# Documentation
+# Docs
 ```js
 // Import MailRack
 const mail = require("./mailrack")
