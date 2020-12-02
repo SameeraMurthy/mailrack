@@ -1,7 +1,3 @@
-# Mail Rack
-Easy mailing component for Node.js built on Nodemailer.
-[https://github.com/sameeramurthy/mailrack](https://github.com/sameeramurthy/mailrack)
-
 #### Documentation
 ```js
 // Import MailRack
